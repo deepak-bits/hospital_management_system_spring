@@ -1,5 +1,6 @@
-package com.example.hospital_management_system;
+package com.example.hospital_management_system.controllers;
 
+import com.example.hospital_management_system.models.Patient;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
